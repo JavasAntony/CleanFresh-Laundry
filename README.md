@@ -1,10 +1,10 @@
-# 🧺 CleanFresh Laundry
+# CleanFresh Laundry
 
 Website landing page modern untuk bisnis laundry yang dirancang untuk meningkatkan kepercayaan pelanggan, menampilkan layanan secara profesional, dan mempermudah proses pemesanan melalui WhatsApp.
 
 ## 🌐 Demo Website
 
-https://clean-fresh-laundry.vercel.app/
+https://clean-fresh-laundry.vercel.app/ 
 
 ---
 
@@ -103,9 +103,9 @@ Tampilan akan menyesuaikan ukuran layar secara otomatis.
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Library & Assets
 
@@ -136,6 +136,9 @@ project/
 ├── style.css
 ├── script.js
 ```
+
+# Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 👨‍💻 Developer
 
